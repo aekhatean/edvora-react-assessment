@@ -41,8 +41,6 @@ function App() {
     );
   }
 
-  // console.log(filters);
-  // console.log(products);
   return (
     <Container fluid className="App">
       <Row className="mt-5">
